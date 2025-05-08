@@ -4,7 +4,7 @@ import faiss
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
-docs_path = "CI:CD Docs"
+docs_path = "ci_cd_docs"
 chunks, sources = [], []
 
 # Chunk docs
