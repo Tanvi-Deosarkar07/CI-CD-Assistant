@@ -1,0 +1,8 @@
+
+CI/CD Troubleshooting Tips
+
+1. Ensure correct file paths in YAML or config.
+2. Check credentials/secrets are set properly.
+3. Confirm Docker or runtime environments match.
+4. Use logging (`echo`, `print`, `debug`) generously.
+5. Validate pipeline syntax with CLI or linter before pushing.
